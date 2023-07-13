@@ -7,5 +7,5 @@ To track changes and time's turbulent tide.
 
 Commit by commit, it weaves a tale,
 Recording revisions, like whispers on a gale.
-Branches diverfe, and conflicts arise,
+Branches diverse, and conflicts arise,
 Yet Git remains, with steadfast guise.
